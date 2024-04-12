@@ -1,10 +1,12 @@
 {
   "siteTitle": "Your Name Here",
   "position": {
-    "discriminant": "top",
+    "discriminant": "side",
     "value": {
-      "u": "1712840379550",
-      "alwaysDropdown": false
+      "u": "1712879136462",
+      "layout": {
+        "width": "clamp(300px, 33vw, 500px)"
+      }
     }
   },
   "appearance": {
@@ -29,7 +31,7 @@
       "fontStyle": "normal",
       "fontSize": "1.5rem",
       "lineHeight": 1,
-      "color": "#0a0057",
+      "color": "#ff451f",
       "marginTop": "0.5rem",
       "marginBottom": "0.5rem"
     },
